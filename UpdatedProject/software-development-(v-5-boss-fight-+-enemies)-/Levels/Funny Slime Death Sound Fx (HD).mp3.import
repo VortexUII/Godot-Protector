@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://i7rnfcmlnxs4"
+path="res://.godot/imported/Funny Slime Death Sound Fx (HD).mp3-2a609f62f3298d0fdd70bfe754e7247b.mp3str"
+
+[deps]
+
+source_file="res://Levels/Funny Slime Death Sound Fx (HD).mp3"
+dest_files=["res://.godot/imported/Funny Slime Death Sound Fx (HD).mp3-2a609f62f3298d0fdd70bfe754e7247b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

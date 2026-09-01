@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cjemm7dmwmweq"
+path="res://.godot/imported/Male Pain Grunts Sound Effects SFX Free and Royalty Free.mp3-d360031fb9408c4def601013fd50dc8d.mp3str"
+
+[deps]
+
+source_file="res://Levels/Male Pain Grunts Sound Effects SFX Free and Royalty Free.mp3"
+dest_files=["res://.godot/imported/Male Pain Grunts Sound Effects SFX Free and Royalty Free.mp3-d360031fb9408c4def601013fd50dc8d.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

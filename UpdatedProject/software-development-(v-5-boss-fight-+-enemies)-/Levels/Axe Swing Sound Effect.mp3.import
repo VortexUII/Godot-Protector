@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c63v1kr8eqbxe"
+path="res://.godot/imported/Axe Swing Sound Effect.mp3-054a6641cd0d5745f7876572216d04b6.mp3str"
+
+[deps]
+
+source_file="res://Levels/Axe Swing Sound Effect.mp3"
+dest_files=["res://.godot/imported/Axe Swing Sound Effect.mp3-054a6641cd0d5745f7876572216d04b6.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
